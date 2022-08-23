@@ -54,3 +54,12 @@ body {
 .box::after {
   filter: blur(50px);
 }
+@keyframes border {
+  0%,
+  100% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 300%;
+  }
+}
