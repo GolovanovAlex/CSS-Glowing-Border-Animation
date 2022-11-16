@@ -7,15 +7,15 @@
 
 ---
 
-[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/YzvQaBe)
+[Demo Link <br>![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AlexGolovanov/pen/MWXEgNX)
 
-![image](readme/gifscreen.webp)
+![image](readme/gifscreen.gif)
 
 ## Info
 
 Создано на основе видео с Youtube канала [CODE WITH HOSSEIN](https://www.youtube.com/c/CodeWithHossein).
 
-Для обучения и отработки работы с **CSS** и **JavaScript**.
+Для обучения и отработки работы с **CSS** и **анимацией**.
 
 ---
 
